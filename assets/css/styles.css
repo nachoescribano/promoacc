@@ -216,7 +216,6 @@ strong {
 
 .nav-menu__list-item-link:hover {
     color: var(--color-white);
-    text-decoration: underline;
 }
 
 .arrow-up-square {
@@ -252,9 +251,8 @@ strong {
 }
 
 .un--light::after {
-    background: var(--color-accent-dark);
+    background: var(--color-white);
 }
-
 
 /* Estructura */
 .header {
@@ -509,6 +507,14 @@ strong {
     .h3 {
         font-size: var(--font-size-18);
     }
+
+    /* Utilidades */
+
+    /* efecto underline para los links */
+    .un--light::after {
+        background: var(--color-accent-dark);
+    }
+    
 
     /* Componentes */
     .header {
