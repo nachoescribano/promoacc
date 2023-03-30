@@ -1,3 +1,195 @@
 {
-  "lang": "de"
+  "lang": "de",
+  "description": "Kabel- und Kettenzubehör wird in Befestigungssystemen eingesetzt, in denen die Befestigung und der Schutz von Kabeln und Ketten erforderlich ist.",
+  "keywords": "Zubehöre für seilen und ketten, Drahtseilklemmen, Gerade shackel, Spannschlösser, Drehbare ringschrauben, Kauschen, Karabinerhaken",
+  "title": "Zubehöre für seilen und ketten Chavesbao",
+  "applications": "Aplicaciones",
+  "gamma": "Gama",
+  "inox": "Inoxidable",
+  "contact": "Contacto",
+  "intro-section": {
+    "title": "Gama de Accesorios para Cable y Cadena",
+    "image-alt": "Zubehöre für seilen und ketten",
+    "description-1": "Los accesorios para cable y cadena se utilizan en sistemas de sujeción para los que es necesario la <strong class='strong'>fijación y protección</strong> de cables y cadenas. Estos accesorios se utilizan en diferentes sectores como construcción, eléctrico, industrial, agrícola o marítimo, entre otros.",
+    "description-2": "La gama está compuesta de una amplia variedad de productos en <strong class='strong'> sujetacables, tensores, guardacabos, grilletes, cáncamos y mosquetones, tanto en acero como en acero inoxidable</strong>.",
+    "view-catalogue": "Ver catálogo"
+  },
+  "applications-section": {
+    "title": "¿Para qué sirven los accesorios para cable y cadena?",
+    "image-alt": "Sektoren von Kabel- und Kettenzubehör",
+    "description-1": "La función de estos accesorios es la <strong class='strong'>fijación y protección de cables y cadenas</strong>. Esta gama es una solución que evita que los cables y cadenas se deslicen o se dañen.",
+    "description-2": "La gama de productos de Chavesbao está fabricada en acero y acero inoxidable, por lo que es perfecta para el uso en exteriores cuando la instalación está expuesta a condiciones meteorológicas adversas y es necesario garantizar su resistencia."
+  },
+  "gamma-section": {
+    "subtitle": "Gama",
+    "title": "Accesorios para Cable y Cadena",
+    "view-gamma": "Ver gama",
+    "cards": [
+      {
+        "title": "Drehbare ringschrauben",
+        "description-1": "El cáncamo, armella o argolla, es una pieza de metal en forma de anillo que sirve para la <strong class='strong'>conexión de cables y alambres</strong> cuando queremos fijar un objeto tirando de él. El cáncamo a rosca puede ser macho o hembra. Su principal uso es para unir dos partes en un sistema de carga, como en la fijación de toldos, cables o alambres, entre otros.",
+        "description-2": "Los cáncamos disponibles son el artículo 582 (similar al DIN 582) en cincado y acero inoxidable A2 y A4; y el artículo 580 (similar al DIN 580) en cincado y acero inoxidable A2 y A4.",
+        "image-alt": "Drehbare ringschrauben: DIN 580",
+        "image": "assets/images/ART. 580 ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:801/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Gerade shackel",
+        "description-1": "El grillete es un accesorio que se utiliza como pieza intermedia entre el cáncamo o gancho y la eslinga. Se compone de una argolla y un perno que se emplean para <strong class='strong'>sujetar cadenas, inmovilizar los objetos o moverlos con mayor agilidad y rapidez</strong>.",
+        "description-2": "Los grilletes disponibles son los artículos SHA-DE y SHA-BO en cincado y acero inoxidable A4.",
+        "image-alt": "Gerade shackel: SHA-DE",
+        "image": "assets/images/SHA-DE ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:800/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Kauschen",
+        "description-1": "El guardacabos es un anillo que protege el cable para <strong class='strong'>evitar que se desgaste o deforme en la fricción</strong>. Tiene forma ovalada para adaptar el cabo al diámetro requerido y cuenta con un surco en su superficie que favorece el agarre. El principal uso del guardacabos es proteger el cabo para alargar su vida útil, además de reducir el ruido y la vibración de los cables y cadenas durante su uso.",
+        "description-2": "Los guardacabos están disponibles en cincado y en acero inoxidable A4 en norma DIN 6899.",
+        "image-alt": "Kauschen: DIN 6899",
+        "image": "assets/images/DIN 6899-A ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:803/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Spannschlösser",
+        "description-1": "El tensor es un accesorio compuesto por tres piezas que puede terminar abierto en gancho o cerrado en forma de ojo. Se utiliza para <strong class='strong'>estirar y mantener una tensión constante de cables, cuerdas y alambres</strong>.",
+        "description-2": "Los tensores están disponibles en cincado y acero inoxidable A4 en norma DIN 1480.",
+        "image-alt": "Spannschlösser: DIN 1480",
+        "image": "assets/images/DIN 1480 H-E ZP 2.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:802/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Drahtseilklemmen",
+        "description-1": "El sujetacables, también conocido como perrillos, es una abrazadera compuesta por una horquilla en forma de U, un puente y dos tuercas, que se utiliza para la <strong class='strong'>unión firme de cables o gazas de cable</strong> en sistemas simples donde no pueden utilizarse terminales o donde es necesario realizar una unión temporal.",
+        "description-2": "Los sujetacables están disponibles en cincado y acero inoxidable A4 en norma DIN 741 y en los artículos SJP.",
+        "image-alt": "Drahtseilklemmen: DIN 741",
+        "image": "assets/images/DIN 741 A4.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:799/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Karabinerhaken",
+        "description-1": "El mosquetón es un tipo de grillete que cuenta con un pestillo de resorte que <strong class='strong'>permite conectar y desconectar fácilmente otros elementos</strong>. El uso principal de los mosquetones es para servir como enganche y enlace de diferentes componentes.",
+        "description-2": "Los mosquetones están disponibles en cincado según norma DIN 5299.",
+        "image-alt": "Karabinerhaken: DIN 5299",
+        "image": "assets/images/DIN 5299 SS ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:de/t:PR/ct:906/pgCT:1/pgPR:1"
+      }
+    ],
+    "advertisement": "Esta gama de accesorios NO se rige por la directiva 2006/42/CE. En ningún caso los artículos que la componen son válidos como equipo de protección individual."
+  },
+  "inox-section": {
+    "title": "LA IMPORTANCIA DEL ACERO INOXIDABLE",
+    "subtitle-1": "Disponemos de más de 3.400 referencias en tornillería, tuercas, arandelas y otros artículos",
+    "description-1-1": "El acero inoxidable es un tipo de material metálico que se caracteriza por su resistencia a la corrosión. La presencia de cromo en el acero inoxidable es lo que le otorga su propiedad anticorrosiva.",
+    "description-1-2": "El acero inoxidable en tornillería <strong class='strong'>garantiza una alta durabilidad evitando la corrosión</strong> en las fijaciones en exteriores o ambientes húmedos, donde otros materiales pueden oxidarse.",
+    "subtitle-2": "¿Cuándo y por qué elegir el acero inoxidable?",
+    "description-2": "El acero inoxidable es un material imprescindible por su alta duración y resistencia a la corrosión en instalaciones con requerimientos más  exigentes. Es perfecto para utilizarlo en aplicaciones de larga duración expuestas a condiciones climáticas adversas, ya que el acero inoxidable destaca por ser un material muy resistente y duradero, que además no evidencia desgaste en su apariencia exterior.",
+    "image-alt": "Rostfreier stahl"
+  },
+  "contact-section": {
+    "title": "¿Necesitas más información? Contáctanos:",
+    "error": "Fehler",
+    "close": "Schließen",
+    "name": "Nombre",
+    "surnames": "Apellidos",
+    "company": "Empresa",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "phone-legend": "Akzeptiertes Format 613445599 oder +34613445599",
+    "message": "Mensaje / Consulta",
+    "personal-data": "Ich akzeptiere die Verwendung meiner persönlichen Daten durch das technische Personal von CHAVES BILBAO, S.L. (CIF B-48044473), um mich ausschließlich für meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.",
+    "legal-data": "He leído y acepto el <a href='https://chavesbao.com/rechtliche' target='_blank' class='small p-link un un--light'>Aviso Legal</a> y la <a href='https://chavesbao.com/datenschutz' target='_blank' class='small p-link un un--light'>Política de Privacidad</a>.",
+    "description-1": "CHAVES BILBAO, S.L informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umstände, zum Zeitpunkt der Erfassung der persönlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Geschäftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivitäten im Zusammenhang mit CHAVES BILBAO, S.L.",
+    "description-2": "Die Daten in unseren Dateien sind streng vertraulich und werden mit der größtmöglichen Vertraulichkeit behandelt und erfüllen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es für den Zweck, für den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer für den Zeitraum, der für die Erbringung der Dienstleistung, für die sie übermittelt wurden, erforderlich ist.",
+    "description-3": "Gemäß der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu übermitteln, da diese nicht verschlüsselt sind. Sollten Sie solche Daten übermitteln, so geschieht dies auf Ihre alleinige Verantwortung.",
+    "description-4": "Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, Löschung und Widerspruch gemäß den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 ausüben, indem er ein Schreiben an den für die Verarbeitung verantwortlichen Mitarbeiter sendet zusammen mit einer Fotokopie seines Personalausweises an CHAVES BILBAO, S.L.  C/Bizkargi, 6 Polígono Industrial Sarrikola 48195 Larrabetzu – Vizcaya – Spain oder über die E-Mail Adresse info@chavesbao.com.",
+    "button-send": "Zum sortiment"
+  },
+  "footer": {
+    "image-alt-1": "LRQA-Siegel",
+    "links": [
+      [
+        {
+          "href": "https://chavesbao.com/nosotros",
+          "text": "Nosotros"
+        },
+        {
+          "href": "https://lontanagroup.com/en/",
+          "text": "Lontana Group"
+        }
+      ],
+      [
+        {
+          "href": "https://chavesbao.com/buscar-grupo/200-inoxidable",
+          "text": "Inoxidable"
+        },
+        {
+          "href": "https://chavesbao.com/asistente/tornillos",
+          "text": "Tornillos"
+        },
+        {
+          "href": "https://chavesbao.com/asistente/tuercas",
+          "text": "Tuercas"
+        },
+        {
+          "href": "https://chavesbao.com/asistente/arandelas",
+          "text": "Arandelas"
+        },
+        {
+          "href": "https://chavesbao.com/asistente/varillas-roscadas",
+          "text": "Varillas roscadas"
+        },
+        {
+          "href": "https://chavesbao.com/buscar-grupo/234-accesorios-cable-y-elevacion",
+          "text": "Accesorios de cable y elevación"
+        },
+        {
+          "href": "https://chavesbao.com/buscar-grupo/https://chavesbao.com/buscar-grupo/233-otros-productos",
+          "text": "Otros productos"
+        },
+        {
+          "href": "https://chavesbao.com/soldadura/es",
+          "text": "Soldadura"
+        }
+      ],
+      [
+        {
+          "href": "https://chavesbao.com/rechtliche",
+          "text": "Aviso legal"
+        },
+        {
+          "href": "https://chavesbao.com/datenschutz",
+          "text": "Política de privacidad"
+        },
+        {
+          "href": "https://chavesbao.com/cookies",
+          "text": "Política de cookies"
+        },
+        {
+          "href": "https://chavesbao.com/integrated-management-system-policy/M-CAL-A2-ES.pdf",
+          "text": "Política del Sistema Integrado de Gestión"
+        },
+        {
+          "href": "https://chavesbao.com/REACH-ES.pdf",
+          "text": "Reglamento Reach"
+        },
+        {
+          "href": "https://chavesbao.com/ROHS-ES.pdf",
+          "text": "Directiva Rohs"
+        },
+        {
+          "href": "https://chavesbao.com/GTCS.pdf",
+          "text": "Allgemeine Verkaufsbedingungen"
+        },
+        {
+          "href": "https://chavesbao.com/Politica-Diligencia-Debida-Minerales-de-conflicto-Chaves-Bilbao.pdf",
+          "text": "Política minerales de conflicto"
+        },
+        {
+          "href": "https://chavesbao.com/news_post_rss?locale=de",
+          "text": "RSS",
+          "rss": true
+        }
+      ]
+    ]
+  }
 }

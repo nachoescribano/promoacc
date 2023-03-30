@@ -1,3 +1,195 @@
 {
-  "lang": "en"
+  "lang": "en",
+  "description": "The accessories for cables and chains are used in clamping systems that require the attachment and protection of cables and chains.",
+  "keywords": "Wire and Rope fittings, wire rope clips, Shackles, Turnbuckles, Eyebolts, Thimbles, Carabiners",
+  "title": "Wire and Rope fittings Chavesbao",
+  "applications": "Applications",
+  "gamma": "Range",
+  "inox": "Stainless",
+  "contact": "Contact",
+  "intro-section": {
+    "title": "Range of Accessories for Cables and Chains",
+    "image-alt": "Wire and Rope fittings",
+    "description-1": "The accessories for cables and chains are used in clamping systems that require the <strong>attachment and protection of cables and chains</strong>. These accessories are used in different sectors, including construction, electricity, industry, agriculture or maritime, among others.",
+    "description-2": "The range is comprised of a wide variety of products such as <strong>cable supports, tensioners, thimbles, shackles, eye bolts and snap hooks</strong>, made of both steel and stainless steel.",
+    "view-catalogue": "See catalogue"
+  },
+  "applications-section": {
+    "title": "What are accessories for cables and chains used for?",
+    "image-alt": "Sectors of cable and chain accessories",
+    "description-1": "These accessories are used to <strong>attach and protect cables and chains</strong>. This range offers a solution that prevents cables and chains from slipping or becoming damaged.",
+    "description-2": "The Chavesbao product range is made of steel and stainless steel, which makes it perfect for exterior use in cases where the installation is exposed to adverse weather conditions, and its resistance must be guaranteed."
+  },
+  "gamma-section": {
+    "subtitle": "Range",
+    "title": "Accessories for Cables and Chains",
+    "view-gamma": "See range",
+    "cards": [
+      {
+        "title": "Eye Bolts",
+        "description-1": "An eye bolt, eyelet or eye hook is a ring-shaped piece of metal used to <strong>connect cables and wires</strong> when we want to tie an object to it. The threaded eye bolt can be male or female. Its main use is to join two parts in a load-bearing system, such as in the fastening of awnings, cables or wires, among others.",
+        "description-2": "The eye bolts available are article 582 (similar to DIN 582) in galvanised and A2 and A4 stainless steel; and article 580 (similar to DIN 580) in galvanised and A2 and A4 stainless steel.",
+        "image-alt": "Eyebolts: DIN 580",
+        "image": "assets/images/ART. 580 ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:801/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Shackles",
+        "description-1": "A shackle is an accessory used as an intermediary piece between the eye bolt or hook and the sling. It is comprised of a ring and a pin that are used to <strong>support chains, immobilise objects or move them in a faster and more streamlined way</strong>.",
+        "description-2": "The available shackles are articles SHA-DE and SHA-BO, and are available in galvanised or A4 stainless steel.",
+        "image-alt": "Shackles: SHA-DE",
+        "image": "assets/images/SHA-DE ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:800/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Thimble",
+        "description-1": "The thimble is a ring that protects the cable <strong>to prevent it from becoming worn or misshapen as a result of friction</strong>. It is oval-shaped to adapt the rope to the required diameter and has a groove on the surface to facilitate grip. The main use of the thimble is to protect the rope and extend its service life, in addition to reducing noise and vibration of the ropes and chains during use.",
+        "description-2": "The thimbles are available in galvanised and A4 stainless steel in DIN Standard 6899.",
+        "image-alt": "Thimbles: DIN 6899",
+        "image": "assets/images/DIN 6899-A ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:803/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Tensioner",
+        "description-1": "A tensioner is an accessory that consists of three parts that can end in either an open hook or a closed eye. It is used to <strong>stretch and maintain constant cable, rope or wire tension</strong>.",
+        "description-2": "Tensioners are available in galvanised or A4 stainless steel DIN Standard 1480.",
+        "image-alt": "Turnbuckles: DIN 1480",
+        "image": "assets/images/DIN 1480 H-E ZP 2.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:802/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Cable Support",
+        "description-1": "The cable clamp, also known as cable glands, is a clamp that consists of a U-shaped clevis, a bridge and two nuts, which is used to <strong>firmly connect cables or cable clamps</strong> in simple systems where terminals cannot be used or where a temporary connection is required.",
+        "description-2": "Cable supports are available in galvanised or A4 stainless steel DIN Standard 741 and in SJP articles..",
+        "image-alt": "Wire rope clips: DIN 741",
+        "image": "assets/images/DIN 741 A4.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:799/pgCT:1/pgPR:1"
+      },
+      {
+        "title": "Snap Hooks",
+        "description-1": "The snap hook is a type of shackle with a spring-loaded latch that <strong>allows other items to be easily connected and disconnected</strong>. Snap hooks are mainly used to attach and link the different components.",
+        "description-2": "Snap hooks are available galvanised, in accordance with DIN Standard 5299.",
+        "image-alt": "Carabiners: DIN 5299",
+        "image": "assets/images/DIN 5299 SS ZP.webp",
+        "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:en/t:PR/ct:906/pgCT:1/pgPR:1"
+      }
+    ],
+    "advertisement": "This range of accessories is NOT governed by Directive 2006/42/EC. In no case are the items that comprise it valid as standard protective equipment."
+  },
+  "inox-section": {
+    "title": "THE IMPORTANCE OF STAINLESS STEEL",
+    "subtitle-1": "We have more than 3,400 references in screws, nuts, washers and other items",
+    "description-1-1": "Stainless steel is a type of metallic material characterised by its resistance to corrosion. The presence of chromium in stainless steel is what gives it its anti-corrosive properties.",
+    "description-1-2": "Stainless steel in fasteners <strong>ensures high durability by preventing corrosion</strong> in fasteners in outdoor or humid environments, where other materials may oxidise.",
+    "subtitle-2": "Why should you choose stainless steel and what for?",
+    "description-2": "Stainless steel is an essential material due to its durability and resistance to corrosion in installations with more demanding requirements. It is perfect for use in long-term applications exposed to adverse weather conditions, as stainless steel stands out as a highly resistant and durable material and does not show any wear in its external appearance.",
+    "image-alt": "Stainless steel"
+  },
+  "contact-section": {
+    "title": "Do you need more information? Contact us",
+    "error": "Error",
+    "close": "Close",
+    "name": "Name",
+    "surnames": "Surname",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Telephone",
+    "phone-legend": "Format accepted 613445599 or +34613445599",
+    "message": "Message/Query",
+    "personal-data": "I accept the use of my personal data by the technical staff of CHAVES BILBAO, S.L. (CIF tax ID B-48044473) to contact me exclusively for my training and technical advice regarding their products.",
+    "legal-data": "I have read and accept the <a href='https://chavesbao.com/notice' target='_blank' class='small p-link un un--light'>Legal Notice</a> and <a href='https://chavesbao.com/privacy' target='_blank' class='small p-link un un--light'>Privacy Policy</a>.",
+    "description-1": "CHAVES BILBAO, S.L informs that the personal data provided voluntarily on this website will be processed and incorporated into the corresponding files, responsibility of CHAVES BILBAO, S.L, is reported at the time of personal data collection, although, according to the specific case, its purpose may be any of the following: attention to your referred request, complaint or question, established relationship maintenance, comprehensive and commercial customer management, accounting and billing or sending communications, including electronic media, news and activities related to CHAVES BILBAO, S.L.",
+    "description-2": "The data in our files are strictly confidential and shall be treated with the utmost confidentiality and shall comply with all the requirements provided for the General Data Protection Regulation (GDPR) 2016.",
+    "description-3": "According to Data Protection legislation, you are strongly advised not to send high-level personal data, such as those relating to health, as they are not encoded or encrypted. Should these details be sent, it is done so under your sole responsibility.",
+    "description-4": "The user may at any time exercise their rights of access, rectification, cancellation and opposition under the provisions of the General Data Protection Regulation (GDPR) 2016 by sending a letter together with a photocopy of your ID, to: CHAVES BILBAO, S.L.  C/Bizkargi, 6 Polígono Industrial Sarrikola 48195 Larrabetzu – Vizcaya – Spain or via e-mail to info@chavesbao.com.",
+    "button-send": "Send"
+  },
+  "footer": {
+    "image-alt-1": "LRQA stamp",
+    "links": [
+      [
+        {
+          "href": "https://chavesbao.com/aboutus",
+          "text": "About us"
+        },
+        {
+          "href": "https://lontanagroup.com/en/",
+          "text": "Lontana Group"
+        }
+      ],
+      [
+        {
+          "href": "https://chavesbao.com/search-group/200--stainless-steel",
+          "text": "Stainless"
+        },
+        {
+          "href": "https://chavesbao.com/attendant/screws",
+          "text": "Screws"
+        },
+        {
+          "href": "https://chavesbao.com/attendant/nuts",
+          "text": "Nuts"
+        },
+        {
+          "href": "https://chavesbao.com/attendant/washers",
+          "text": "Washers"
+        },
+        {
+          "href": "https://chavesbao.com/attendant/threaded-rods",
+          "text": "Threaded rods"
+        },
+        {
+          "href": "https://chavesbao.com/search-group/234-rigging-hardware",
+          "text": "Cable and hoisting accessories"
+        },
+        {
+          "href": "https://chavesbao.com/search-group/233-plastic-boxs-kits",
+          "text": "Other products"
+        },
+        {
+          "href": "https://chavesbao.com/soldadura/en",
+          "text": "Welding"
+        }
+      ],
+      [
+        {
+          "href": "https://chavesbao.com/notice",
+          "text": "Legal notice"
+        },
+        {
+          "href": "https://chavesbao.com/privacy",
+          "text": "Privacy policy"
+        },
+        {
+          "href": "https://chavesbao.com/cookies",
+          "text": "Cookie policy"
+        },
+        {
+          "href": "https://chavesbao.com/integrated-management-system-policy/M-CAL-A2-EN.pdf",
+          "text": "Integrated Management System Policy"
+        },
+        {
+          "href": "https://chavesbao.com/REACH-EN.pdf",
+          "text": "Reach Regulation"
+        },
+        {
+          "href": "https://chavesbao.com/ROHS-EN.pdf",
+          "text": "Rohs Directive"
+        },
+        {
+          "href": "https://chavesbao.com/GTCS.pdf",
+          "text": "General conditions of sale"
+        },
+        {
+          "href": "https://chavesbao.com/GTCS.pdf",
+          "text": "Conflict minerals policy"
+        },
+        {
+          "href": "https://chavesbao.com/news_post_rss?locale=en",
+          "text": "RSS",
+          "rss": true
+        }
+      ]
+    ]
+  }
 }
