@@ -1,0 +1,175 @@
+<a id="contacto"></a>
+<section class="section section-neutral">
+  <div class="container section-neutral__container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="h2 text-center mb-5">
+          {{contact-section.title}}
+        </h2>
+      </div>
+      <div class="col-12 col-lg-8 offset-lg-2">
+        <form class="row js-form-contact" method="POST">
+          <div
+            class="alert alert-danger alert-dismissible fade hidden js-form-contact-alert"
+            role="alert"
+          >
+            <strong>{{contact-section.error}}</strong>
+            <span class="js-message">/</span>
+            <button
+              type="button"
+              class="btn-close js-btn-close"
+              data-bs-dismiss="alert"
+              aria-label="{{contact-section.close}}"
+            ></button>
+          </div>
+          <div
+            class="alert alert-success alert-dismissible fade hidden js-form-contact-success"
+            role="alert"
+          >
+            <span class="js-message">/</span>
+            <button
+              type="button"
+              class="btn-close js-btn-close"
+              data-bs-dismiss="alert"
+              aria-label="{{contact-section.close}}"
+            ></button>
+          </div>
+          <div class="col-12 col-lg-7 mb-4">
+            <label
+              for="name"
+              class="form-label"
+            >{{contact-section.name}}</label>
+            <input
+              type="text"
+              class="form-control"
+              id="name"
+              name="name"
+              required
+            />
+          </div>
+          <div class="col-12 col-lg-5 mb-4">
+            <label
+              for="surnames"
+              class="form-label"
+            >{{contact-section.surnames}}</label>
+            <input
+              type="text"
+              class="form-control"
+              id="surnames"
+              name="surnames"
+              required
+            />
+          </div>
+          <div class="col-12 mb-4">
+            <label
+              for="company"
+              class="form-label"
+            >{{contact-section.company}}</label>
+            <input
+              type="text"
+              class="form-control"
+              id="company"
+              name="company"
+              required
+            />
+          </div>
+          <div class="col-12 col-lg-7 mb-4">
+            <label
+              for="email"
+              class="form-label"
+            >{{contact-section.email}}</label>
+            <input
+              type="email"
+              class="form-control"
+              id="email"
+              name="email"
+              pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+              required
+            />
+          </div>
+          <div class="col-12 col-lg-5 mb-4">
+            <label
+              for="phone"
+              class="form-label"
+            >{{contact-section.phone}}</label>
+            <input
+              type="tel"
+              class="form-control"
+              id="phone"
+              name="phone"
+              pattern="\+?([0-9]{1,2})?[0-9]{9}"
+              required
+              title="{{contact-section.phone-legend}}"
+            />
+          </div>
+          <div class="col-12 mb-4">
+            <label
+              for="message"
+              class="form-label"
+            >{{contact-section.message}}</label>
+            <textarea
+              class="form-control"
+              id="message"
+              name="message"
+              rows="6"
+              required
+            ></textarea>
+          </div>
+          <div class="col-12 mb-2">
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                value=""
+                id="personalData"
+                required
+              />
+              <label class="form-check-label small" for="personalData">
+                {{contact-section.personal-data}}
+              </label>
+            </div>
+          </div>
+          <div class="col-12 mb-4">
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                value=""
+                id="legalData"
+                required
+              />
+              <label class="form-check-label small" for="legalData">
+                {{{contact-section.legal-data}}}
+              </label>
+            </div>
+          </div>
+          <div class="col-12 mb-4">
+            <p class="small">
+              {{contact-section.description-1}}
+            </p>
+            <p class="small">
+              {{contact-section.description-2}}
+            </p>
+            <p class="small">
+              {{contact-section.description-3}}
+            </p>
+            <p class="small">
+              {{contact-section.description-4}}
+            </p>
+            <div
+              class="g-recaptcha"
+              data-sitekey="6LdlKwYgAAAAAPkb83OaHJm_5JqhfrQwt2Hf-NGc"
+            ></div>
+            <button
+              type="submit"
+              class="btn btn-lg btn-primary my-3 btn-accent-submit js-form-submit"
+              name="submit"
+            >
+              Enviar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
