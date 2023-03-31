@@ -140,7 +140,7 @@ p {
     color: var(--color-dark);
 }
 
-strong {
+.strong {
     font-family: var(--font-family-sf-compact-display-medium);
 }
 

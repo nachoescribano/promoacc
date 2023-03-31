@@ -10,14 +10,14 @@
   "intro-section": {
     "title": "Range of Accessories for Cables and Chains",
     "image-alt": "Wire and Rope fittings",
-    "description-1": "The accessories for cables and chains are used in clamping systems that require the <strong>attachment and protection of cables and chains</strong>. These accessories are used in different sectors, including construction, electricity, industry, agriculture or maritime, among others.",
-    "description-2": "The range is comprised of a wide variety of products such as <strong>cable supports, tensioners, thimbles, shackles, eye bolts and snap hooks</strong>, made of both steel and stainless steel.",
+    "description-1": "The accessories for cables and chains are used in clamping systems that require the <strong class='strong'>attachment and protection of cables and chains</strong>. These accessories are used in different sectors, including construction, electricity, industry, agriculture or maritime, among others.",
+    "description-2": "The range is comprised of a wide variety of products such as <strong class='strong'>cable supports, tensioners, thimbles, shackles, eye bolts and snap hooks</strong>, made of both steel and stainless steel.",
     "view-catalogue": "See catalogue"
   },
   "applications-section": {
     "title": "What are accessories for cables and chains used for?",
     "image-alt": "Sectors of cable and chain accessories",
-    "description-1": "These accessories are used to <strong>attach and protect cables and chains</strong>. This range offers a solution that prevents cables and chains from slipping or becoming damaged.",
+    "description-1": "These accessories are used to <strong class='strong'>attach and protect cables and chains</strong>. This range offers a solution that prevents cables and chains from slipping or becoming damaged.",
     "description-2": "The Chavesbao product range is made of steel and stainless steel, which makes it perfect for exterior use in cases where the installation is exposed to adverse weather conditions, and its resistance must be guaranteed."
   },
   "gamma-section": {
@@ -27,7 +27,7 @@
     "cards": [
       {
         "title": "Eye Bolts",
-        "description-1": "An eye bolt, eyelet or eye hook is a ring-shaped piece of metal used to <strong>connect cables and wires</strong> when we want to tie an object to it. The threaded eye bolt can be male or female. Its main use is to join two parts in a load-bearing system, such as in the fastening of awnings, cables or wires, among others.",
+        "description-1": "An eye bolt, eyelet or eye hook is a ring-shaped piece of metal used to <strong class='strong'>connect cables and wires</strong> when we want to tie an object to it. The threaded eye bolt can be male or female. Its main use is to join two parts in a load-bearing system, such as in the fastening of awnings, cables or wires, among others.",
         "description-2": "The eye bolts available are article 582 (similar to DIN 582) in galvanised and A2 and A4 stainless steel; and article 580 (similar to DIN 580) in galvanised and A2 and A4 stainless steel.",
         "image-alt": "Eyebolts: DIN 580",
         "image": "assets/images/ART. 580 ZP.webp",
@@ -35,7 +35,7 @@
       },
       {
         "title": "Shackles",
-        "description-1": "A shackle is an accessory used as an intermediary piece between the eye bolt or hook and the sling. It is comprised of a ring and a pin that are used to <strong>support chains, immobilise objects or move them in a faster and more streamlined way</strong>.",
+        "description-1": "A shackle is an accessory used as an intermediary piece between the eye bolt or hook and the sling. It is comprised of a ring and a pin that are used to <strong class='strong'>support chains, immobilise objects or move them in a faster and more streamlined way</strong>.",
         "description-2": "The available shackles are articles SHA-DE and SHA-BO, and are available in galvanised or A4 stainless steel.",
         "image-alt": "Shackles: SHA-DE",
         "image": "assets/images/SHA-DE ZP.webp",
@@ -43,7 +43,7 @@
       },
       {
         "title": "Thimble",
-        "description-1": "The thimble is a ring that protects the cable <strong>to prevent it from becoming worn or misshapen as a result of friction</strong>. It is oval-shaped to adapt the rope to the required diameter and has a groove on the surface to facilitate grip. The main use of the thimble is to protect the rope and extend its service life, in addition to reducing noise and vibration of the ropes and chains during use.",
+        "description-1": "The thimble is a ring that protects the cable <strong class='strong'>to prevent it from becoming worn or misshapen as a result of friction</strong>. It is oval-shaped to adapt the rope to the required diameter and has a groove on the surface to facilitate grip. The main use of the thimble is to protect the rope and extend its service life, in addition to reducing noise and vibration of the ropes and chains during use.",
         "description-2": "The thimbles are available in galvanised and A4 stainless steel in DIN Standard 6899.",
         "image-alt": "Thimbles: DIN 6899",
         "image": "assets/images/DIN 6899-A ZP.webp",
@@ -51,7 +51,7 @@
       },
       {
         "title": "Tensioner",
-        "description-1": "A tensioner is an accessory that consists of three parts that can end in either an open hook or a closed eye. It is used to <strong>stretch and maintain constant cable, rope or wire tension</strong>.",
+        "description-1": "A tensioner is an accessory that consists of three parts that can end in either an open hook or a closed eye. It is used to <strong class='strong'>stretch and maintain constant cable, rope or wire tension</strong>.",
         "description-2": "Tensioners are available in galvanised or A4 stainless steel DIN Standard 1480.",
         "image-alt": "Turnbuckles: DIN 1480",
         "image": "assets/images/DIN 1480 H-E ZP 2.webp",
@@ -59,7 +59,7 @@
       },
       {
         "title": "Cable Support",
-        "description-1": "The cable clamp, also known as cable glands, is a clamp that consists of a U-shaped clevis, a bridge and two nuts, which is used to <strong>firmly connect cables or cable clamps</strong> in simple systems where terminals cannot be used or where a temporary connection is required.",
+        "description-1": "The cable clamp, also known as cable glands, is a clamp that consists of a U-shaped clevis, a bridge and two nuts, which is used to <strong class='strong'>firmly connect cables or cable clamps</strong> in simple systems where terminals cannot be used or where a temporary connection is required.",
         "description-2": "Cable supports are available in galvanised or A4 stainless steel DIN Standard 741 and in SJP articles..",
         "image-alt": "Wire rope clips: DIN 741",
         "image": "assets/images/DIN 741 A4.webp",
@@ -67,7 +67,7 @@
       },
       {
         "title": "Snap Hooks",
-        "description-1": "The snap hook is a type of shackle with a spring-loaded latch that <strong>allows other items to be easily connected and disconnected</strong>. Snap hooks are mainly used to attach and link the different components.",
+        "description-1": "The snap hook is a type of shackle with a spring-loaded latch that <strong class='strong'>allows other items to be easily connected and disconnected</strong>. Snap hooks are mainly used to attach and link the different components.",
         "description-2": "Snap hooks are available galvanised, in accordance with DIN Standard 5299.",
         "image-alt": "Carabiners: DIN 5299",
         "image": "assets/images/DIN 5299 SS ZP.webp",
@@ -80,7 +80,7 @@
     "title": "THE IMPORTANCE OF STAINLESS STEEL",
     "subtitle-1": "We have more than 3,400 references in screws, nuts, washers and other items",
     "description-1-1": "Stainless steel is a type of metallic material characterised by its resistance to corrosion. The presence of chromium in stainless steel is what gives it its anti-corrosive properties.",
-    "description-1-2": "Stainless steel in fasteners <strong>ensures high durability by preventing corrosion</strong> in fasteners in outdoor or humid environments, where other materials may oxidise.",
+    "description-1-2": "Stainless steel in fasteners <strong class='strong'>ensures high durability by preventing corrosion</strong> in fasteners in outdoor or humid environments, where other materials may oxidise.",
     "subtitle-2": "Why should you choose stainless steel and what for?",
     "description-2": "Stainless steel is an essential material due to its durability and resistance to corrosion in installations with more demanding requirements. It is perfect for use in long-term applications exposed to adverse weather conditions, as stainless steel stands out as a highly resistant and durable material and does not show any wear in its external appearance.",
     "image-alt": "Stainless steel"
