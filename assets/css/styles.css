@@ -15,6 +15,7 @@
     --font-family-sf-compact-display-medium: SF Compact Display Medium;
     --font-family-sf-compact-display-semibold: SF Compact Display Semibold;
     --font-size-10: 10px;
+    --font-size-11: 11px;
     --font-size-12: 12px;
     --font-size-14: 14px;
     --font-size-16: 16px;
@@ -377,40 +378,33 @@ p {
 
 .card-cb {
     position: relative;
-    width: 100%;
-    padding-top: 100%;
-    overflow: hidden;
+    text-align: center;
     background-color: var(--color-white);
 }
 
+.card-cb::before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+
 .card-cb__img {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    max-width: 72%;
-    /*max-height: 100%;*/
-    padding-top: 1rem;
-    padding-bottom: 4rem;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
-.card-cb__img--width-lg {
-    max-width: 100%;
-    padding-bottom: 1rem;
-    transform: translate(-50%, -55%);
-
-}
 
 .card-cb__button {
     position: absolute;
-    bottom: 25px;
+    bottom: 2rem;
     left: 50%;
     transform: translateX(-50%);
-    /* Centra horizontalmente el botón */
     border: none;
     cursor: pointer;
-    /* Centra verticalmente el botón */
-    /* Centra verticalmente el botón */
     font-family: var(--font-family-sf-compact-display-regular);
     font-size: var(--font-size-18);
     line-height: var(--line-spacing-26);
@@ -454,6 +448,26 @@ p {
 .btn-accent-submit:disabled {
     background-color: var(--color-accent-dark);
     border-color: var(--color-accent-dark);
+}
+
+@media (min-width: 768px) {
+    /* Card Chavesbao */
+    .card-cb__button {
+        bottom: 1rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    /* Card Chavesbao */
+    .card-cb__button {
+        bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1400px) {
+    .card-cb__button {
+        font-size: var(--font-size-11);
+    }
 }
 
 @media (min-width: 992px) {
