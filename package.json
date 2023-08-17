@@ -25,9 +25,9 @@
     "handlebars": "^4.7.7",
     "handlebars-webpack-plugin": "^2.2.1",
     "lodash": "^4.17.21",
-    "merge-webpack-plugin": "^1.4.0",
+    "merge-webpack-plugin": "0.2.1",
     "watch-file-change-and-run-callback-webpack-plugin": "^0.1.0",
-    "webpack": "2.1.0-beta.25",
+    "webpack": "^5.0.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1",
     "webpack-merge": "^5.8.0"

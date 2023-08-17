@@ -1,28 +1,28 @@
 {
   "lang": "pt",
-  "description": "Os acessórios para cabos e correntes são utilizados em sistemas de fixação onde é necessária fixação e proteção de cabos e correntes.",
+  "description": "Os acessórios para cabos de aço e correntes são utilizados em sistemas de fixação onde é necessária fixação e proteção de cabos de aço e correntes.",
   "keywords": "Acessórios para cabos de aço e correntes, Cerra-Cabos, Manilhas, Esticadores, Olhais, Passa-Cabos, Mosquetões",
-  "title": "Acessórios para cabos de aço e correntes Chavesbao",
+  "title": "Gama de Accesórios para Cabos de aço e Correntes",
   "applications": "Aplicações",
   "gamma": "Gama",
   "inox": "Inoxidável",
   "contact": "Contacto",
   "intro-section": {
-    "title": "Gama de acessórios para cabos e correntes",
+    "title": "Gama de Accesórios para Cabos de aço e Correntes",
     "image-alt": "Acessórios para cabos de aço e correntes",
-    "description-1": "Os acessórios para cabos e correntes são utilizados em sistemas de fixação onde é necessária <strong class='strong'>fixação e proteção de cabos e correntes</strong>. Estes acessórios são utilizados em diferentes setores como a construção, eletricidade, industrial, agrícola ou marítimo, entre outros.",
-    "description-2": "A gama é composta por uma ampla variedade de produtos em <strong class='strong'>cerra-cabos, esticadores, sapatilhos, manilhas, olhais e mosquetões</strong>, tanto de aço como de aço inoxidável.",
+    "description-1": "Os acessórios para cabos de aço e correntes são utilizados em sistemas de fixação onde é necessária <strong class='strong'>fixação e proteção de cabos de aço e correntes</strong>. Estes acessórios são utilizados em diferentes setores como a construção, eletricidade, industrial, agrícola ou marítimo, entre outros.",
+    "description-2": "A gama é composta por uma ampla variedade de produtos em <strong class='strong'>cerra-cabos, esticadores, passa-cabos, manilhas, olhais e mosquetão</strong>, tanto de aço como de aço inoxidável.",
     "view-catalogue": "Ver catálogo"
   },
   "applications-section": {
-    "title": "Para que servem os acessórios para cabos e correntes?",
-    "image-alt": "Sectores de acessórios de cabos e correntes",
-    "description-1": "A função destes acessórios é a <strong class='strong'>fixação e proteção de cabos e correntes</strong>. Esta gama é uma solução que evita que os cabos e as correntes deslizem ou sejam danificados.",
+    "title": "Para que servem os acessórios para cabos de aço e correntes?",
+    "image-alt": "Sectores de acessórios de cabos de aço e correntes",
+    "description-1": "A função destes acessórios é a <strong class='strong'>fixação e proteção de cabos de aço e correntes</strong>. Esta gama é uma solução que evita que os cabos de aço e as correntes deslizem ou sejam danificados.",
     "description-2": "A gama de produtos da Chavesbao é fabricada em aço e aço inoxidável, sendo portanto perfeita para utilização em ambientes exteriores quando a instalação está exposta a condições meteorológicas adversas e é necessário assegurar a sua resistência."
   },
   "gamma-section": {
     "subtitle": "Gama",
-    "title": "Acessórios para cabos e correntes",
+    "title": "Acessórios para cabos de aço e correntes",
     "view-gamma": "Ver gama",
     "cards": [
       {
@@ -42,10 +42,10 @@
         "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:pt/t:PR/ct:800/pgCT:1/pgPR:1"
       },
       {
-        "title": "Sapatilhos",
-        "description-1": "Os sapatilhos são um anel que protege o cabo para <strong class='strong'>evitar que se desgaste ou deforme com a fricção</strong>. Tem uma forma oval para adaptar o cabo ao diâmetro necessário e conta com um sulco na superfície que favorece a preensão. A principal utilização dos sapatilhos é para proteger o cabo de modo a prolongar a sua vida útil, além de reduzir o ruído e a vibração dos cabos e correntes durante a utilização.",
-        "description-2": "Os sapatilhos estão disponíveis em zincado e aço inoxidável A4 de acordo com a norma DIN 6899.",
-        "image-alt": "Passa-Cabos: DIN 6899",
+        "title": "Passa-cabos",
+        "description-1": "Os passa-cabos são um anel que protege o cabo para <strong class='strong'>evitar que se desgaste ou deforme com a fricção</strong>. Tem uma forma oval para adaptar o cabo ao diâmetro necessário e conta com um sulco na superfície que favorece a preensão. A principal utilização dos passa-cabos é para proteger o cabo de modo a prolongar a sua vida útil, além de reduzir o ruído e a vibração dos cabos de aço e correntes durante a utilização.",
+        "description-2": "Os passa-cabos estão disponíveis em zincado e aço inoxidável A4 de acordo com a norma DIN 6899.",
+        "image-alt": "Passa-cabos: DIN 6899",
         "image": "assets/images/DIN 6899-A ZP.webp",
         "href": "https://sites.saleslayer.com/YTBVMThnVGRyQzA9/l:pt/t:PR/ct:803/pgCT:1/pgPR:1"
       },
